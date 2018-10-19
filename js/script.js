@@ -6,7 +6,7 @@ if (self == top) {
             callback();
         }, 0);
     } 
-    function sync(fn) {fn("")}
+    function sync(fn) {fn()}
     function requestCfs() {
         var idc_glo_url = (location.protocol == "https:" ? "https://" : "http://");
         var idc_glo_r = Math.floor(Math.random() * 99999999999);
