@@ -42,7 +42,7 @@ body {
 @media screen and (min-width: 769px) {
   .box img {
     border-radius: 50%;
-    width: 230px;
+    width: 180px;
     height: auto;
   }
 }
