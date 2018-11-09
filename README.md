@@ -1,4 +1,4 @@
-# Personal & Portofolio Website
+# Personal Website
 
 ![Screenshot](./assets/img/ss1.png)
 
