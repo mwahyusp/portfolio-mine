@@ -1,6 +1,6 @@
 # Personal Website
 
-![Screenshot](./assets/img/ss1.png)
+![Screenshot](./assets/img/ssnew.png)
 
 ## Tech Stack
 
