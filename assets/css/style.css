@@ -88,3 +88,6 @@ body {
 .box a:hover {
   color: #b9b9b9;
 }
+.img.center {
+  display: inline-block;
+}
